@@ -1,4 +1,11 @@
 # Armbian
+这个是我自己瞎折腾的玩的，千万不要下载刷机，保你一次成砖的啊！！！
+这个是我自己瞎折腾的玩的，千万不要下载刷机，保你一次成砖的啊！！！
+这个是我自己瞎折腾的玩的，千万不要下载刷机，保你一次成砖的啊！！！
+
+需要固件的可以去：https://github.com/ophub下载
+需要固件的可以去：https://github.com/ophub下载
+需要固件的可以去：https://github.com/ophub下载
 
 View Chinese description | [查看中文说明](README.cn.md)
 
